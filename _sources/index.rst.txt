@@ -21,6 +21,7 @@ documentation for details.
    subfolder/subpage1
    subfolder/subpage2
    subfolder/image_example
+   subfolder/image1_example
    subfolder/code_example
 
 .. toctree::

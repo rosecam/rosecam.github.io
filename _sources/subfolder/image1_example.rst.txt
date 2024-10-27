@@ -1,0 +1,15 @@
+.. _image1_example:
+
+Image Example
+=============
+
+This page contains an example of an image.
+
+.. image:: ../images/marincorp.png
+   :alt: 예시이미지2
+   :align: center
+   :width: 600px
+   :height: 300px
+
+.. meta::
+   :keywords: 해병대, 깃발
