@@ -1,0 +1,15 @@
+.. _image_example:
+
+Image Example
+=============
+
+This page contains an example of an image.
+
+.. image:: ../images/a6.png
+   :alt: 예시이미지
+   :align: center
+   :width: 600px
+   :height: 300px
+
+.. meta::
+   :keywords: 여성, 환타지, 동양
